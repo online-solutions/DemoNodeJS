@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="725bb73f-674f-4b6f-849f-475e6248e692" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/emily.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/lite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/movies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DemoNodeJS.iws" />
@@ -29,30 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="9-new-movies.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9-new-movies.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#51#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8-app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8-app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#51#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10/app.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,12 +68,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lite.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lite.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11/lite.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21428572">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#51#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,6 +163,7 @@
         <option value="$PROJECT_DIR$/11/movies.js" />
         <option value="$PROJECT_DIR$/11/emily.js" />
         <option value="$PROJECT_DIR$/11/lite.js" />
+        <option value="$PROJECT_DIR$/12/app.js" />
       </list>
     </option>
   </component>
@@ -252,6 +238,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoNodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoNodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -283,6 +283,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -290,11 +292,7 @@
       <recent name="$PROJECT_DIR$/10" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.app.js (1)">
-    <configuration default="false" name="play.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="play.js" working-dir="$PROJECT_DIR$">
-      <profiling log-folder="." record-internal="true" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.app.js (2)">
     <configuration default="false" name="7-prototype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="7-prototype.js" working-dir="$PROJECT_DIR$">
       <profiling log-folder="." record-internal="true" />
       <method />
@@ -308,6 +306,10 @@
       <method />
     </configuration>
     <configuration default="false" name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/11">
+      <profiling log-folder="." record-internal="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/12">
       <profiling log-folder="." record-internal="true" />
       <method />
     </configuration>
@@ -560,19 +562,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.bin/www" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.play.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.7-prototype.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.8-app.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.7-prototype.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.8-app.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.8-app.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.7-prototype.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.play.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.8-app.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.7-prototype.js" />
       </list>
     </recent_temporary>
   </component>
@@ -588,12 +590,12 @@
       <updated>1429240766299</updated>
       <workItem from="1429240781113" duration="167000" />
       <workItem from="1429240981197" duration="9401000" />
-      <workItem from="1429497363051" duration="9477000" />
+      <workItem from="1429497363051" duration="11864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19045000" />
+    <option name="totallyTimeSpent" value="21432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -867,9 +869,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11/lite.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21428572">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/nodejs-v0.12.2-src/core-modules-sources/lib/fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="1086" column="42" selection-start-line="1086" selection-start-column="40" selection-end-line="1086" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/food.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
