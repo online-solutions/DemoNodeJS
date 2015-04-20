@@ -7,3 +7,7 @@ var movies = require('./8-movies');
 movies.PaulWalker();
 //movies.printFast7();
 //movies.printCTNA();
+
+var newMovies = require('./9-new-movies');
+newMovies.printAvatar();
+console.log(newMovies.favMovie);
