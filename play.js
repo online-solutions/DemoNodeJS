@@ -22,11 +22,12 @@ console.log(21 == '21'); // true
 console.log(21 === '21'); // false
 
 
-// test this
+// The default calling context is global
 function doSomethingOutOfObject(){
     console.log("\n I am your King");
     console.log(this == global);
 }
 
+// Test this
 lite.printlnSomething();
 doSomethingOutOfObject();
