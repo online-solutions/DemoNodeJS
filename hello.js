@@ -31,3 +31,11 @@ http.createServer(function(req, res){
 }).listen(3000);
 
 console.log("Server listening in port 3000");
+
+var currency = require('./currency_helper');
+console.log(currency.changeUSDToVND(12));
+console.log(currency.changeUSDToVND(12, 21000));
+console.log(currency.changeVNDToUSD(12000000));
+
+// not export -> private func -> error
+//console.log(currency.changeVNDToEU(100000));
